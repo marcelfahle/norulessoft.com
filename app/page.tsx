@@ -49,7 +49,7 @@ export default function Home() {
               </li>
               <li>
                 <Link
-                  href="https://pidro.io"
+                  href="https://www.pidro.online"
                   className="text-base relative inline-block transition-colors duration-300 product-link"
                   target="_blank"
                   rel="noopener noreferrer"
