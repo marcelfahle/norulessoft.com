@@ -38,7 +38,7 @@ export default function Home() {
             <ul className="space-y-3">
               <li>
                 <Link
-                  href="https://boldvideo.io"
+                  href="https://boldvideo.com"
                   className="text-base relative inline-block transition-colors duration-300 product-link"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -49,7 +49,7 @@ export default function Home() {
               </li>
               <li>
                 <Link
-                  href="https://pidro.io"
+                  href="https://pidro.online"
                   className="text-base relative inline-block transition-colors duration-300 product-link"
                   target="_blank"
                   rel="noopener noreferrer"
